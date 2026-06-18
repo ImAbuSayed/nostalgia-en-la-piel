@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nostalgia-en-la-piel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Nostalgia en la piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nostalgia-en-la-piel/) |
+| **Get License** | [Official Music Licensing for Nostalgia en la piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nostalgia-en-la-piel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta noche la luna nos llama en la ciudad
+> Tu cuerpo es un misterio que quiero descifrar
+> Tengo la nostalgia de tu piel en la oscuridad
+> Dime si te atreves a escapar y no regresar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
