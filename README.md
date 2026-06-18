@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nostalgia-en-la-piel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Nostalgia en la piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nostalgia-en-la-piel/) |
+| **Get License** | [Commercial Licensing for Nostalgia en la piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nostalgia-en-la-piel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b555cd3a676f21689447690a9c3ee6368be27b1778395c85221259409d42272e` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

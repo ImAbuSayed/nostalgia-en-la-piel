@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nostalgia en la piel
+
+This log tracks the cryptographic history and versioning for the song **Nostalgia en la piel** (nostalgia-en-la-piel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T06:17:47.091541 | `v1` | `b555cd3a676f21689447690a9c3ee6368be27b1778395c85221259409d42272e` | `ee3dfd4643887d7f1569195e9dcfddc885fcd92e921d7fc3fe2879d4e2a68d9c` | `2026-06-18_nostalgia-en-la-piel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
